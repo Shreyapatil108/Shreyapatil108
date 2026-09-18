@@ -122,6 +122,8 @@ I am looking for an opportunity as a **Java Developer / Software Developer / Ful
 
 ## 📫 Connect With Me
 
+💼 **LinkedIn:** [Shreya Patil](https://www.linkedin.com/in/shreya-patil-391469304)
+
 📧 **Email:** [patilshreya973010@gmail.com](mailto:patilshreya973010@gmail.com)
 
 🐙 **GitHub:** [Shreyapatil108](https://github.com/Shreyapatil108)
